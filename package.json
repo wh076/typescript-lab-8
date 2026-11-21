@@ -1,0 +1,17 @@
+{
+  "name": "typescript-lab-8",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "check": "tsc -p tsconfig.json --noEmit",
+    "build": "tsc -p tsconfig.json"
+  },
+  "keywords": [],
+  "author": "Трофимов Михаил Олегович",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  }
+}
